@@ -59,10 +59,10 @@ npm start to begin.
 ```
 
 ## Demo
-[Using MySQL to schema/seed/start server](         link         )
-[GET/GET(id)/POST/PUT/DELETE Categories](         link         )
-[GET/GET(id)/POST/PUT/DELETE Tags](         link         )
-[GET/GET(id)/POST/PUT/DELETE Products](         link         )
+[1. Using MySQL to schema/seed/start server](https://drive.google.com/file/d/1zzKOl-nEzzaZWrUHUSSv2Nv_tHXJJTCb/view?usp=sharing)\
+[2. GET/GET(id)/POST/PUT/DELETE Categories](https://drive.google.com/file/d/1BGrTyLa5XZ3_1BLFx3wovORtFSZzRtB-/view?usp=sharing)\
+[3. GET/GET(id)/POST/PUT/DELETE Tags](https://drive.google.com/file/d/1p00L6ValEU-qROtOAUhH6jy4BnUs0Pbm/view?usp=sharing)\
+[4. GET/GET(id)/POST/PUT/DELETE Products](https://drive.google.com/file/d/1Ydl7lK_E8GinwY8bjg5eCOPFEeWOmoBl/view?usp=sharing)
 
 
 ## Questions
